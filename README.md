@@ -15,7 +15,8 @@
 [![An image of @beingfarazkhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/beingfarazkhan)](https://holopin.io/@beingfarazkhan)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=beingfarazkhan&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![Faraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=beingfarazkhan&show_icons=true&theme=dark) -->
+![](https://github-readme-stats.vercel.app/api?username=beingfarazkhan&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=beingfarazkhan&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=beingfarazkhan&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
