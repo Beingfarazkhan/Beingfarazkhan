@@ -22,6 +22,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=beingfarazkhan&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=beingfarazkhan&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 📊 Contribution Graph
+![svg](https://raw.githubusercontent.com/beingfarazkhan/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=beingfarazkhan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
