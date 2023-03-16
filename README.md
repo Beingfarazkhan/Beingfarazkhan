@@ -1,4 +1,6 @@
 # 💫 About Me:
+<img align='right' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='300px'>
+<br>
 🔭 I’m currently working on Web development projects<br>👯 I’m looking to collaborate on Start-up ideas<br>🤝 I’m looking for help with Three.js<br>🌱 I’m currently learning Javascript Libraries <br>💬 Ask me about myself by writing an e-mail or connecting<br>      with me on Linkedin or Twitter.<br> ⚡ Fun fact : Python was developed a hobby project by <br>       Guido Van Rossum in December 1989, while he was looking <br>       for a hobby project to keep him occupied in the week <br>       around Christmas.
 
 
