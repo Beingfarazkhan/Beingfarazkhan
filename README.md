@@ -1,3 +1,6 @@
+![](https://github.com/Beingfarazkhan/Beingfarazkhan/blob/main/greetingGIF.gif)
+<br>
+
 # 💫 About Me:
 <img align='right' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='300px'>
 <br>
