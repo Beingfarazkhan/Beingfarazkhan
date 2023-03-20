@@ -21,9 +21,10 @@
 
 ## 📊 GitHub Stats:
 <!-- ![Faraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=beingfarazkhan&show_icons=true&theme=dark) -->
-![](https://github-readme-stats.vercel.app/api?username=beingfarazkhan&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
+![](https://github-readme-stats-beingfarazkhan.vercel.app/api?username=beingfarazkhan&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=beingfarazkhan&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=beingfarazkhan&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-beingfarazkhan.vercel.app/api/top-langs/?username=beingfarazkhan&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>  
 ## 📊 Contribution Graph
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
